@@ -12,4 +12,4 @@ O Bin2Dec é um programa em Java que realiza a conversão de números na base bi
 
 ## 🚨 Como Utilizar
 
-Para executar o projeto em sua máquina é precisa instalar o Java Development Kit (JDK) e configurar as váriaveis de ambiente em sua máquina.
+Para executar o projeto em sua máquina é precisa instalar o Java Development Kit (JDK) e configurar as váriaveis de ambiente.
